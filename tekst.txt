@@ -2,3 +2,8 @@ ovo je tekst!
 druga linija teksta
 za drugi komit
 ovo je vezba
+
+sada smi u loginasod
+
+evo nas
+git
